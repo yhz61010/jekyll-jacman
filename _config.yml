@@ -6,7 +6,7 @@ highlighter: rouge
 
 #### Permalink
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:title/
 
 #### Markdown Processors
 markdown: kramdown
