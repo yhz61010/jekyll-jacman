@@ -49,7 +49,7 @@ menu:
 #### Widgets
 widgets: 
 - category
-- tagcloud
+- tag
 - links
 - douban
 - rss
