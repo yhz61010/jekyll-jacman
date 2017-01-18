@@ -37,6 +37,8 @@ language: zh-CN    ## blog site languages: en, zh-CN, zh-TW
 #### Menu
 menu:
   Home: /
+  Tags: /tags
+  Categories: /categories
   Archives: /archives
   About: /about
 ## you can create `tags` and `categories` folders in `../source`.
